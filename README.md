@@ -9,7 +9,7 @@ Includes:
 
 ## Getting Started
 
-* Download and extract the latest release from (here)[https://github.com/geetfun/bootstrap-design-boilerplate/releases]
+* Download and extract the latest release from [here](https://github.com/geetfun/bootstrap-design-boilerplate/releases)
 * cd to directory
 * `npm install` to install dependencies
 * `gulp` to start the server

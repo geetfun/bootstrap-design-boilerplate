@@ -10,5 +10,8 @@
     "bootstrap"
   ],
   "author": "Simon Chiu",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.0.0"
+  }
 }

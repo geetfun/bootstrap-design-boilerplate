@@ -1,0 +1,14 @@
+{
+  "name": "bootstrap-design-boilerplate",
+  "version": "1.0.0",
+  "description": "Boilerplate directory set up for Bootstrap 4 designs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bootstrap"
+  ],
+  "author": "Simon Chiu",
+  "license": "ISC"
+}

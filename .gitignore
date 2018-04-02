@@ -1,2 +1,4 @@
 /src/css/style.css
 /node_modules
+/src/js/popper.min.js
+/src/js/jquery.min.js
